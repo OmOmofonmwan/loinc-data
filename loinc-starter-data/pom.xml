@@ -38,20 +38,9 @@
     </dependency>
     <dependency>
       <groupId>dev.ikm.tinkar</groupId>
-      <artifactId>composer</artifactId>
-      <version>${tinkar-composer.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>dev.ikm.tinkar</groupId>
       <artifactId>entity-provider</artifactId>
       <version>${tinkar-core.version}</version>
     </dependency>
-    <dependency>
-      <groupId>dev.ikm.tinkar</groupId>
-      <artifactId>integration</artifactId>
-      <version>${tinkar-core.version}</version>
-    </dependency>
-
     <dependency>
       <groupId>dev.ikm.tinkar</groupId>
       <artifactId>executor-provider</artifactId>
