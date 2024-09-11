@@ -22,11 +22,11 @@ open module loinc.starter.data {
    requires dev.ikm.tinkar.composer;
    requires dev.ikm.tinkar.terms;
    requires org.slf4j;
-   requires tinkar.sandbox;
+   //requires tinkar.sandbox;
     requires dev.ikm.tinkar.entity;
     requires org.eclipse.collections.api;
     requires dev.ikm.tinkar.coordinate;
-    requires dev.ikm.tinkar.ext.lang.owl;
+    //requires dev.ikm.tinkar.ext.lang.owl;
 
 
 }
